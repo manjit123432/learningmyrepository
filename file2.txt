@@ -2,6 +2,6 @@ file2.txt
 <<<<<<< HEAD
 this line for local1
 this is modified for local1
-=======
-this commit for local2
->>>>>>> local2
+this commit for local2 local2
+
+this commit for local2 file
